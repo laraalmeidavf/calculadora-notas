@@ -1,0 +1,695 @@
+[
+  {
+    "curso_nome": "Administracao",
+    "campus_nome": "Rio",
+    "nao_reservada": 46.25,
+    "rede_publica": 20.5,
+    "negros_indigena": 22,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Arqueologia",
+    "campus_nome": "Rio",
+    "nao_reservada": 43.5,
+    "rede_publica": 35.25,
+    "negros_indigena": 31.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Arquitetura e Urbanismo",
+    "campus_nome": "Petropolis",
+    "nao_reservada": 58.5,
+    "rede_publica": 23.5,
+    "negros_indigena": 47,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Artes Visuais",
+    "campus_nome": "Rio",
+    "nao_reservada": 57.25,
+    "rede_publica": 25.25,
+    "negros_indigena": 23.25,
+    "pcd_filhos": 31.5,
+    "": ""
+  },
+  {
+    "curso_nome": "Ciencia da Computacao",
+    "campus_nome": "Rio",
+    "nao_reservada": 79.25,
+    "rede_publica": 44.25,
+    "negros_indigena": 24,
+    "pcd_filhos": 39,
+    "": ""
+  },
+  {
+    "curso_nome": "Ciencia da Computacao",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 45.25,
+    "rede_publica": 24,
+    "negros_indigena": 38.25,
+    "pcd_filhos": 37,
+    "": ""
+  },
+  {
+    "curso_nome": "Ciencias Ambientais",
+    "campus_nome": "Cabo Frio",
+    "nao_reservada": 25.5,
+    "rede_publica": 51.25,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Ciencias Atuariais",
+    "campus_nome": "Rio",
+    "nao_reservada": 31.25,
+    "rede_publica": 24.75,
+    "negros_indigena": 28.5,
+    "pcd_filhos": "",
+    "": ""
+  },
+  {
+    "curso_nome": "Ciencias Biologicas",
+    "campus_nome": "Rio",
+    "nao_reservada": 49.75,
+    "rede_publica": 23,
+    "negros_indigena": 22,
+    "pcd_filhos": 33.5,
+    "": ""
+  },
+  {
+    "curso_nome": "Ciencias Biologicas",
+    "campus_nome": "S�o Gon�alo",
+    "nao_reservada": 20,
+    "rede_publica": 20.75,
+    "negros_indigena": 41,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Ci�ncias Biol�gicas",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 20.75,
+    "rede_publica": 26,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Ci�ncias Cont�beis",
+    "campus_nome": "Rio",
+    "nao_reservada": 39.75,
+    "rede_publica": 24,
+    "negros_indigena": 21.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Ci�ncias Econ�micas",
+    "campus_nome": "Rio",
+    "nao_reservada": 64.5,
+    "rede_publica": 25,
+    "negros_indigena": 26.25,
+    "pcd_filhos": 34.25,
+    "": ""
+  },
+  {
+    "curso_nome": "Ci�ncias Sociais",
+    "campus_nome": "Rio",
+    "nao_reservada": 41.25,
+    "rede_publica": 47.25,
+    "negros_indigena": 30.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Cinema e Audiovisual",
+    "campus_nome": "Duque de Caxias",
+    "nao_reservada": 28.25,
+    "rede_publica": 31.5,
+    "negros_indigena": 20.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Design",
+    "campus_nome": "Rio",
+    "nao_reservada": 74.5,
+    "rede_publica": 51.5,
+    "negros_indigena": 49.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Direito",
+    "campus_nome": "Rio",
+    "nao_reservada": 78,
+    "rede_publica": 48.75,
+    "negros_indigena": 40.75,
+    "pcd_filhos": 31.5,
+    "": ""
+  },
+  {
+    "curso_nome": "Educa��o F�sica",
+    "campus_nome": "Rio",
+    "nao_reservada": 33.5,
+    "rede_publica": 20.75,
+    "negros_indigena": 23.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Enfermagem",
+    "campus_nome": "Rio",
+    "nao_reservada": 47.75,
+    "rede_publica": 33.5,
+    "negros_indigena": 25.5,
+    "pcd_filhos": 40,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Ambiental e Sanit�ria",
+    "campus_nome": "Rio",
+    "nao_reservada": 20.5,
+    "rede_publica": 41.25,
+    "negros_indigena": 33.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Cartogr�fica",
+    "campus_nome": "Rio",
+    "nao_reservada": 21.75,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Civil",
+    "campus_nome": "Rio",
+    "nao_reservada": 46.75,
+    "rede_publica": 25.75,
+    "negros_indigena": 28.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia de Computa��o",
+    "campus_nome": "Nova Friburgo",
+    "nao_reservada": 66.5,
+    "rede_publica": 28.5,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia de Materiais",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 41.25,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia de Produ��o",
+    "campus_nome": "Resende",
+    "nao_reservada": 26.75,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia de Produ��o",
+    "campus_nome": "Rio",
+    "nao_reservada": 72.75,
+    "rede_publica": 30.75,
+    "negros_indigena": 27.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia de Produ��o",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 20.5,
+    "rede_publica": 26.75,
+    "negros_indigena": 30.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia El�trica",
+    "campus_nome": "Rio",
+    "nao_reservada": 36.75,
+    "rede_publica": 22.25,
+    "negros_indigena": 32.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Mec�nica",
+    "campus_nome": "Nova Friburgo",
+    "nao_reservada": 21.25,
+    "rede_publica": 35.25,
+    "negros_indigena": 37.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Mec�nica",
+    "campus_nome": "Resende",
+    "nao_reservada": 26.75,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Mec�nica",
+    "campus_nome": "Rio",
+    "nao_reservada": 67,
+    "rede_publica": 22.5,
+    "negros_indigena": 32.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Metal�rgica",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 23.5,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Qu�mica",
+    "campus_nome": "Resende",
+    "nao_reservada": 20.5,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Engenharia Qu�mica",
+    "campus_nome": "Rio",
+    "nao_reservada": 61,
+    "rede_publica": 27.25,
+    "negros_indigena": 23,
+    "pcd_filhos": 61.5,
+    "": ""
+  },
+  {
+    "curso_nome": "Estat�stica",
+    "campus_nome": "Rio",
+    "nao_reservada": 24.5,
+    "rede_publica": 25.5,
+    "negros_indigena": 44,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Farm�cia",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 38,
+    "rede_publica": 20.75,
+    "negros_indigena": 27.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Filosofia",
+    "campus_nome": "Rio",
+    "nao_reservada": 25,
+    "rede_publica": 33,
+    "negros_indigena": 37.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "F�sica",
+    "campus_nome": "Rio",
+    "nao_reservada": 22.75,
+    "rede_publica": 32,
+    "negros_indigena": 52.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Geografia",
+    "campus_nome": "Cabo Frio",
+    "nao_reservada": 30,
+    "rede_publica": 54.25,
+    "negros_indigena": 47.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Geografia",
+    "campus_nome": "Duque de Caxias",
+    "nao_reservada": 31.25,
+    "rede_publica": 39.5,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Geografia",
+    "campus_nome": "Rio",
+    "nao_reservada": 54,
+    "rede_publica": 32.75,
+    "negros_indigena": 22.25,
+    "pcd_filhos": 52.25,
+    "": ""
+  },
+  {
+    "curso_nome": "Geografia",
+    "campus_nome": "S�o Gon�alo",
+    "nao_reservada": 40.5,
+    "rede_publica": 41.5,
+    "negros_indigena": 42,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Geologia",
+    "campus_nome": "Rio",
+    "nao_reservada": 41.25,
+    "rede_publica": 0,
+    "negros_indigena": 53.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Hist�ria",
+    "campus_nome": "Duque de Caxias",
+    "nao_reservada": 26,
+    "rede_publica": 34.5,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Hist�ria",
+    "campus_nome": "Rio",
+    "nao_reservada": 66.25,
+    "rede_publica": 39.75,
+    "negros_indigena": 28.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Hist�ria",
+    "campus_nome": "S�o Gon�alo",
+    "nao_reservada": 24.5,
+    "rede_publica": 24,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Hist�ria da Arte",
+    "campus_nome": "Rio",
+    "nao_reservada": 38,
+    "rede_publica": 49.75,
+    "negros_indigena": 22,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Jornalismo",
+    "campus_nome": "Rio",
+    "nao_reservada": 73.5,
+    "rede_publica": 46,
+    "negros_indigena": 53,
+    "pcd_filhos": 40.75,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras",
+    "campus_nome": "S�o Gon�alo",
+    "nao_reservada": 22,
+    "rede_publica": 36,
+    "negros_indigena": 24.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Ingl�s/ Literaturas",
+    "campus_nome": "Rio",
+    "nao_reservada": 61.75,
+    "rede_publica": 40.25,
+    "negros_indigena": 27.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/ Alem�o",
+    "campus_nome": "Rio",
+    "nao_reservada": 22.25,
+    "rede_publica": 61.75,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/ Espanhol",
+    "campus_nome": "Rio",
+    "nao_reservada": 34.5,
+    "rede_publica": 38,
+    "negros_indigena": 51.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/ Franc�s",
+    "campus_nome": "Rio",
+    "nao_reservada": 25,
+    "rede_publica": 60,
+    "negros_indigena": 50.25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/ Grego",
+    "campus_nome": "Rio",
+    "nao_reservada": 29.75,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/ Italiano",
+    "campus_nome": "Rio",
+    "nao_reservada": 22,
+    "rede_publica": 31.75,
+    "negros_indigena": 50,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/Japon�s",
+    "campus_nome": "Rio",
+    "nao_reservada": 48.75,
+    "rede_publica": 67.75,
+    "negros_indigena": 73.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/Latim",
+    "campus_nome": "Rio",
+    "nao_reservada": 34,
+    "rede_publica": 0,
+    "negros_indigena": 56.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Letras: Portugu�s/Literatura",
+    "campus_nome": "Rio",
+    "nao_reservada": 49,
+    "rede_publica": 38.5,
+    "negros_indigena": 41.5,
+    "pcd_filhos": 32,
+    "": ""
+  },
+  {
+    "curso_nome": "Matem�tica",
+    "campus_nome": "Duque de Caxias",
+    "nao_reservada": 27,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Matem�tica",
+    "campus_nome": "Rio",
+    "nao_reservada": 20,
+    "rede_publica": 35.5,
+    "negros_indigena": 20,
+    "pcd_filhos": 55,
+    "": ""
+  },
+  {
+    "curso_nome": "Matem�tica",
+    "campus_nome": "S�o Gon�alo",
+    "nao_reservada": 25,
+    "rede_publica": 29.5,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Medicina",
+    "campus_nome": "Cabo Frio",
+    "nao_reservada": 86.75,
+    "rede_publica": 74.5,
+    "negros_indigena": 69.25,
+    "pcd_filhos": 78.75,
+    "": ""
+  },
+  {
+    "curso_nome": "Medicina",
+    "campus_nome": "Rio",
+    "nao_reservada": 88,
+    "rede_publica": 78,
+    "negros_indigena": 76.75,
+    "pcd_filhos": 76.5,
+    "": ""
+  },
+  {
+    "curso_nome": "Nutri��o",
+    "campus_nome": "Rio",
+    "nao_reservada": 47.5,
+    "rede_publica": 20.25,
+    "negros_indigena": 20.25,
+    "pcd_filhos": 40,
+    "": ""
+  },
+  {
+    "curso_nome": "Oceanografia",
+    "campus_nome": "Rio",
+    "nao_reservada": 26,
+    "rede_publica": 29,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Odontologia",
+    "campus_nome": "Rio",
+    "nao_reservada": 59.25,
+    "rede_publica": 33.5,
+    "negros_indigena": 25,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Pedagogia",
+    "campus_nome": "Duque de Caxias",
+    "nao_reservada": 21.25,
+    "rede_publica": 26.25,
+    "negros_indigena": 39.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Pedagogia",
+    "campus_nome": "Rio",
+    "nao_reservada": 20,
+    "rede_publica": 20.75,
+    "negros_indigena": 20.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Pedagogia",
+    "campus_nome": "S�o Gon�alo",
+    "nao_reservada": 20.75,
+    "rede_publica": 26.25,
+    "negros_indigena": 32,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Psicologia",
+    "campus_nome": "Rio",
+    "nao_reservada": 72.5,
+    "rede_publica": 55.5,
+    "negros_indigena": 43.5,
+    "pcd_filhos": 39.75,
+    "": ""
+  },
+  {
+    "curso_nome": "Qu�mica",
+    "campus_nome": "Rio",
+    "nao_reservada": 34.5,
+    "rede_publica": 37.75,
+    "negros_indigena": 37,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Relaces Internacionais",
+    "campus_nome": "Rio",
+    "nao_reservada": 80.25,
+    "rede_publica": 63.75,
+    "negros_indigena": 46,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Rela��es P�blicas",
+    "campus_nome": "Rio",
+    "nao_reservada": 61.25,
+    "rede_publica": 44,
+    "negros_indigena": 42.75,
+    "pcd_filhos": 31,
+    "": ""
+  },
+  {
+    "curso_nome": "Servi�o Social",
+    "campus_nome": "Rio",
+    "nao_reservada": 36,
+    "rede_publica": 23.75,
+    "negros_indigena": 22.75,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Tecnologia em An�lise e Desenvolvimento de Sistemas",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 24.75,
+    "rede_publica": 34.5,
+    "negros_indigena": 23.5,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Tecnologia em Constru��o Naval",
+    "campus_nome": "Zona Oeste",
+    "nao_reservada": 26,
+    "rede_publica": 0,
+    "negros_indigena": 0,
+    "pcd_filhos": 0,
+    "": ""
+  },
+  {
+    "curso_nome": "Turismo",
+    "campus_nome": "Rio",
+    "nao_reservada": 40.75,
+    "rede_publica": 39.5,
+    "negros_indigena": 35.5,
+    "pcd_filhos": 0,
+    "": ""
+  }
+]
